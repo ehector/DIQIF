@@ -25,3 +25,5 @@ If you use the DIQIF R package, please consider citing the relevant manuscript: 
 The posdef.matrix function was written by Ravi Varadhan: https://stat.ethz.ch/pipermail/r-help/2008-February/153708.
 
 The GEE implementation is through the R package geepack: Højsgaard, S., Halekoh, U., Yan, J. (2006). The R package geepack for generalized estimating equations. Journal of Statistical Software, 15(2):1–11.
+
+The QIF implementation is courtesy of Lan Luo (https://github.com/luolsph). 
