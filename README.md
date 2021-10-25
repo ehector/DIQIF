@@ -26,4 +26,4 @@ The posdef.matrix function was written by Ravi Varadhan: https://stat.ethz.ch/pi
 
 The GEE implementation is through the R package geepack: Højsgaard, S., Halekoh, U., Yan, J. (2006). The R package geepack for generalized estimating equations. Journal of Statistical Software, 15(2):1–11.
 
-The QIF implementation is courtesy of Lan Luo (https://github.com/luolsph). 
+The QIF Rcpp implementation is courtesy of Lan Luo (https://github.com/luolsph). 
