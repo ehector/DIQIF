@@ -1,0 +1,21 @@
+Package: DIQIF
+Type: Package
+Title: Distributed and Integrated Quadratic Inference Functions
+Version: 1.0-1
+Date: 2020-07-08
+Author: Emily C. Hector
+Maintainer: [Emily C. Hector] <ehector@umich.edu>
+Description: Performs regression analysis of high-dimensional correlated responses. Divides data into blocks according to supplied indicator, analyses blocks using composite likelihood, GEEs or QIF, and combines blocks using optimal generalized method of moments (GMM) equation.
+License: GPL-3
+Imports: Rcpp (>= 0.12.11),
+	 RcppParallel (>= 4.3.10),
+         Matrix (>= 1.2.11),
+         stats,
+         foreach (>= 1.4.3),
+         doParallel (>= 1.0.11),
+         parallel (>= 3.3.3),
+         MASS (>= 7.3.47),
+	 geepack (>= 1.2.1),
+         nlme (>= 3.1.137)
+LinkingTo: Rcpp, RcppArmadillo, RcppParallel, geepack
+SystemRequirements: GNU make
