@@ -1,5 +1,7 @@
 # About
 
+Joint integrative analysis of multiple data sources with correlated vector outcomes
+
 This repository is an R package implementing methods from the following publication:
 - Emily C. Hector and Peter X.-K. Song (2021). Joint integrative analysis of multiple data sources with correlated vector outcomes. arXiv, arXiv:2011.14996. To appear in The Annals of Applied Statistics.
 
